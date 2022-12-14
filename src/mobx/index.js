@@ -3,6 +3,8 @@ class Counter{
   @observable count=2
 }
 
-export default {
+const store ={
     couterStore:new Counter()
-}
+}  
+
+export default store
