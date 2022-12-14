@@ -10,7 +10,8 @@ import {observer,inject } from 'mobx-react'
 @observer
 export default class Test extends React.Component{
     test(){
-        console.log(sn)
+        throw Error("xxx")
+       // console.log(sn)
     }
     render(){
         //console.log(this.props,'xxx')
