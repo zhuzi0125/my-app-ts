@@ -1,0 +1,7 @@
+[defaults]
+project=my-app-ts
+org=zhuzi
+url=http://localhost:3000
+
+[auth]
+token=3380564dbe29454d8122582d8eaaced9b59c4f4d51cd4d37a87ed82a280eaff2
